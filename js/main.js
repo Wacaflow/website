@@ -30,11 +30,12 @@ const influencers = [
         profileImage: "images/influencers/0xDeflect.jpg", 
         tags: ["Crypto", "Web3", "BlueMoonW3"],
         media: [
-            { type: "video", url: "images/portfolio/0xDeflect/Pump.mp4", description: "Pump Dance" },
+            { type: "video", url: "images/portfolio/0xDeflect/GM.mp4", description: "GM Greeting" },
+            { type: "video", url: "images/portfolio/0xDeflect/GMorn.mp4", description: "GM Greeting" },
+            { type: "video", url: "images/portfolio/0xDeflect/GN2.mp4", description: "Old GN" },
+            { type: "video", url: "images/portfolio/0xDeflect/GNight.mp4", description: "GN Phonk" },
             { type: "video", url: "images/portfolio/0xDeflect/Gain.mp4", description: "X Earn Dance" },
-            { type: "video", url: "images/portfolio/0xDeflect/GM.mp4", description: "Animated promo for GM" },
-            { type: "video", url: "images/portfolio/0xDeflect/GN.mp4", description: "Animated promo for GN" },
-            { type: "video", url: "images/portfolio/0xDeflect/GN2.mp4", description: "Animated promo for GM" }
+            { type: "video", url: "images/portfolio/0xDeflect/Pump.mp4", description: "Pump Dance" }
         ]
     },
 
