@@ -41,6 +41,22 @@ const influencers = [
 
     {
         id: 3,
+        name: "Makku",
+        handle: "@MakkuXRP",
+        twitterUrl: "https://x.com/MakkuXRP",
+        profileImage: "images/influencers/MakkuXRP.jpg", 
+        tags: ["Crypto", "Web3", "Networker"],
+        media: [
+            { type: "video", url: "images/portfolio/MakkuXRP/dump.mp4", description: "Market Dump" },
+            { type: "video", url: "images/portfolio/MakkuXRP/pump.mp4", description: "Pump Dance" },
+            { type: "video", url: "images/portfolio/MakkuXRP/replyguy.mp4", description: "Replyguy Dance" },
+            { type: "video", url: "images/portfolio/MakkuXRP/gm.mp4", description: "GM Greeting" },
+            { type: "video", url: "images/portfolio/MakkuXRP/gn.mp4", description: "GN Greeting" }
+        ]
+    },
+
+    {
+        id: 4,
         name: "Fityeth",
         handle: "@fityeth",
         twitterUrl: "https://x.com/fityeth",
@@ -54,7 +70,7 @@ const influencers = [
     },
 
     {
-        id: 4,
+        id: 5,
         name: "Bronx",
         handle: "@BronxOnChain",
         twitterUrl: "https://x.com/BronxOnChain",
@@ -69,7 +85,7 @@ const influencers = [
     },
 
     {
-        id: 5,
+        id: 6,
         name: "FatGuy",
         handle: "@oldfatytguy",
         twitterUrl: "https://x.com/oldfatytguy",
@@ -85,7 +101,7 @@ const influencers = [
     },
 
     {
-        id: 6,
+        id: 7,
         name: "Jeremy",
         handle: "@Jeremyybtc",
         twitterUrl: "https://x.com/Jeremyybtc",
@@ -99,7 +115,7 @@ const influencers = [
     },
 
     {
-        id: 7,
+        id: 8,
         name: "JR5",
         handle: "@JR5_Crypto",
         twitterUrl: "https://x.com/JR5_Crypto",
@@ -114,7 +130,7 @@ const influencers = [
     },
 
     {
-        id: 8,
+        id: 9,
         name: "Ferre",
         handle: "@FerreWeb3",
         twitterUrl: "https://x.com/FerreWeb3",
@@ -129,7 +145,7 @@ const influencers = [
     },
 
     {
-        id: 9,
+        id: 10,
         name: "stu",
         handle: "@despxwned",
         twitterUrl: "https://x.com/despxwned",
@@ -143,7 +159,7 @@ const influencers = [
     },
 
     {
-        id: 10,
+        id: 11,
         name: "borovik",
         handle: "@3orovik",
         twitterUrl: "https://x.com/3orovik",
@@ -159,7 +175,7 @@ const influencers = [
     },
 
     {
-        id: 11,
+        id: 12,
         name: "KAROLLINA",
         handle: "@KarollinaOk",
         twitterUrl: "https://x.com/KarollinaOk",
@@ -173,7 +189,7 @@ const influencers = [
     },
 
     {
-        id: 12,
+        id: 13,
         name: "rasmr_eth",
         handle: "@rasmr_eth",
         twitterUrl: "https://x.com/rasmr_eth",
