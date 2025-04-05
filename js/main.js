@@ -108,6 +108,7 @@ const influencers = [
         profileImage: "images/influencers/Jeremyybtc.jpg", 
         tags: ["Crypto", "Web3", "Advisor"],
         media: [
+            { type: "video", url: "images/portfolio/Jeremyybtc/EpicGM.mp4", description: "Epic GM" },
             { type: "video", url: "images/portfolio/Jeremyybtc/pump.mp4", description: "Pump Animation" },
             { type: "video", url: "images/portfolio/Jeremyybtc/money.mp4", description: "Money Animation" },
             { type: "video", url: "images/portfolio/Jeremyybtc/dump.mp4", description: "Dump Reaction" }
