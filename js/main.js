@@ -156,7 +156,8 @@ const influencers = [
         media: [
             { type: "video", url: "images/portfolio/despxwned/follow.mp4", description: "Follow Animation" },
             { type: "video", url: "images/portfolio/despxwned/hi.mp4", description: "Hi Animation" },
-            { type: "video", url: "images/portfolio/despxwned/popup.mp4", description: "Money Animation" }
+            { type: "video", url: "images/portfolio/despxwned/fb.mp4", description: "Follow Back" },
+            { type: "video", url: "images/portfolio/despxwned/pump.mp4", description: "Pump Dance" }
         ]
     },
 
