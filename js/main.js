@@ -123,10 +123,12 @@ const influencers = [
         profileImage: "images/influencers/JR5_Crypto.jpg", 
         tags: ["Crypto", "Web3", "Trader"],
         media: [
+            { type: "video", url: "images/portfolio/JR5_Crypto/GMphonk.mp4", description: "Phonk GM" },
             { type: "video", url: "images/portfolio/JR5_Crypto/pump.mp4", description: "Pump Animation" },
             { type: "video", url: "images/portfolio/JR5_Crypto/dump.mp4", description: "Dump Reaction" },
             { type: "video", url: "images/portfolio/JR5_Crypto/gm.mp4", description: "GM Animation" },
-            { type: "video", url: "images/portfolio/JR5_Crypto/gn.mp4", description: "GN Animation" }
+            { type: "video", url: "images/portfolio/JR5_Crypto/gn.mp4", description: "GN Animation" },
+            { type: "video", url: "images/portfolio/JR5_Crypto/RG.mp4", description: "ReplyGuy" }
         ]
     },
 
