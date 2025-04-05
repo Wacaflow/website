@@ -201,8 +201,10 @@ const influencers = [
         media: [
             { type: "image", url: "images/portfolio/rasmr/rasmr_eth_1.jpg", description: "Custom banner for crypto collection" },
             { type: "video", url: "images/portfolio/rasmr/dance1.mp4", description: "Animated promo for hustle" },
+            { type: "video", url: "images/portfolio/rasmr/cring.mp4", description: "Cring Dance" },
             { type: "video", url: "images/portfolio/rasmr/dance2.mp4", description: "Animated promo for another hustle" },
-            { type: "video", url: "images/portfolio/rasmr/placeholder_video.mp4", description: "Animated promo for DeFi project" }
+            { type: "video", url: "images/portfolio/rasmr/placeholder_video.mp4", description: "Animated promo for DeFi project" },
+            { type: "video", url: "images/portfolio/rasmr/pump.mp4", description: "Pump Dance" }
         ]
     }
     // To add a new influencer, copy the object above and paste it here
